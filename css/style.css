@@ -160,7 +160,7 @@ ul.social-links li{
 	-ms-transition:all 0.3s;
 }
 .logo-container:hover{
-	background-color:#1BBC9B;
+	background-color:#3498DB;
 	transition:all 0.3s;
 	-webkit-transition:all 0.3s;
 	-o-transition:all 0.3s;
@@ -288,7 +288,7 @@ ul.sf-menu li li li:hover ul,ul.sf-menu li li li.sfHover ul{
 	background:#3498DB !important;
 }
 .ca-icon{
-	background-color:#1BBC9B;
+	background-color:#3498DB;
 	text-align:center;
 	-webkit-transition:all 300ms linear;
 	-moz-transition:all 300ms linear;
@@ -531,7 +531,7 @@ ul.sf-menu li li li:hover ul,ul.sf-menu li li li.sfHover ul{
 	-moz-transition:all 0.3s !important;
 	-ms-transition:all 0.3s !important;
 }
-.box3-description-container{ border-bottom:3px solid #1BBC9B; }
+.box3-description-container{ border-bottom:3px solid #3498DB; }
 .box3-description{
 	margin:18px 20px 18px 20px;
 	color:#808080;
@@ -1598,7 +1598,7 @@ ul.contact-list li{
 }
 .skill-bar-content[data-percentage]{ text-indent:-9999px; }
 .skill-bar-content{
-	background:#1BBC9B;
+	background:#3498DB;
 	height:36px;
 	width:0%;
 	box-shadow:inset 0px -1px 0px 0px rgba(0,0,0,0.12);
@@ -2709,7 +2709,7 @@ button{
 }
 .button.black:hover{ background-color:#575757; }
 a{
-	color:#1BBC9B;
+	color:#3498DB;
 	text-decoration:none;
 	transition:all 0.3s ease 0s;
 	-webkit-transition-duration:0.3s;
