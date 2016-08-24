@@ -117,7 +117,7 @@
 	margin-bottom:0;
 }
 #sequence-theme h3 {
-  	color: #1BBC9B;
+  	color: #3498DB;
 	font-family: 'RobotoThin', OswaldLight, Arial, Helvetica, sans-serif;
 	font-weight:lighter;
 	font-size:25px;
@@ -308,7 +308,7 @@
 }
 #sequence .slide-2-yellow {
 	font-size:26px;
-	color:#1BBC9B;
+	color:#3498DB;
 	font-weight:normal;
 	top: 90%;
 	font-family: 'OswaldLight', Arial, Helvetica, sans-serif;
